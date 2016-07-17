@@ -10,7 +10,7 @@ public class namasteJi {
 	}
 
 	private void test() {
-		System.out.println(" Duniya123 ");
+		System.out.println(" Duniya1234 ");
 		
 	}
 
